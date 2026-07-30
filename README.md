@@ -4,7 +4,6 @@
 [![Made with React](https://img.shields.io/badge/Made%20with-React-blue?logo=react)](https://reactjs.org/)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase)](https://firebase.google.com/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
-[![Last Commit](https://img.shields.io/github/last-commit/Deepbendu/WeTalk?color=blue)](https://github.com/Deepbendu/WeTalk)
 
 ---
 
@@ -116,10 +115,10 @@ Or use:
 
 ## 🙋‍♂️ About Me
 
-**Deepbendu Debnath**  
-Full-Stack Developer | AWS Certified Solutions Architect | Automation & Cloud Enthusiast
+**Shivam Solanki**  
+Software Engineer | Full-Stack Developer | Cloud Computing | AI/ML Enthusiast | Oracle OCI Certified | Java • React • SQL || VIT Vellore
 
-Hi! I'm Deepbendu — a builder who loves combining **cloud, automation, and frontend magic** to make clean, scalable apps.  
+Hi! I'm Shivam — a builder who loves combining **cloud, automation, and frontend magic** to make clean, scalable apps.  
 I'm always exploring how to bring simplicity to complex systems using tools like **React**, **Firebase**, and **AWS**.  
 
 Made with ❤️ in India 🇮🇳
@@ -130,8 +129,8 @@ Made with ❤️ in India 🇮🇳
 
 I'm always open to connect for internships, full-time roles, mentorship, or collaborative builds:
 
-> ✉️ debnathdeepbendu@gmail.com  
-🔗 [LinkedIn](http://linkedin.com/in/deepbendu-debnath) | 📁 [GitHub](https://github.com/Deepbendu) | 🧩 [LeetCode](https://leetcode.com/deepbendu)
+> ✉️ shivamsolanki539@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/shivam-solanki-918b0b246) | 📁 [GitHub](https://github.com/Shivam-1980) | 
 
 ---
 
